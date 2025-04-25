@@ -117,10 +117,10 @@ GEM
     elastic-transport (8.4.0)
       faraday (< 3)
       multi_json
-    elasticsearch (9.0.1)
+    elasticsearch (9.0.2)
       elastic-transport (~> 8.3)
-      elasticsearch-api (= 9.0.1)
-    elasticsearch-api (9.0.1)
+      elasticsearch-api (= 9.0.2)
+    elasticsearch-api (9.0.2)
       multi_json
     erubi (1.13.1)
     faraday (2.13.0)
@@ -139,7 +139,7 @@ GEM
       rdoc (>= 4.0.0)
       reline (>= 0.4.2)
     jmespath (1.6.2)
-    json (2.10.2)
+    json (2.11.2)
     jwt (2.10.1)
       base64
     kamal (2.5.3)
