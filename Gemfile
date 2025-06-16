@@ -46,6 +46,6 @@ gem "bcrypt", "~> 3.1"
 
 gem "rack-attack", "~> 6.7"
 
-gem "jwt", "~> 2.10"
+gem "jwt", "~> 3.0"
 
 gem "elasticsearch", "~> 9.0"
