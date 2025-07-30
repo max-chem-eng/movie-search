@@ -48,4 +48,4 @@ gem "rack-attack", "~> 6.7"
 
 gem "jwt", "~> 2.10"
 
-gem "elasticsearch", "~> 9.0"
+gem "elasticsearch", "~> 9.1"
